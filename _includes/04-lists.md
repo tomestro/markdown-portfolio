@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Places to be:
+- San Francisco
+- NYC
+- Cape Town
